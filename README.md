@@ -1,1 +1,1 @@
-![alt text](https://github.com/AminaAmraoui/Darke-mode/blob/master/47f92c.gif)
+![alt text](https://github.com/AminaAmraoui/Darke-mode/blob/master/illustration.gif)
